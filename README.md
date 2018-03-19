@@ -24,7 +24,7 @@ So, *ChatHub* is an open-source feature-rich chat platform (initially for Androi
 - [ ] Document (PDF/DOC) Message
 - [ ] Reply Message
 - [ ] Emojis Support
-- [ ] Emojis Support
+- [ ] Message Reactions
 - [ ] Online/Last Active Status
 - [ ] Message Receipt Ticks
 - [ ] Group Chat

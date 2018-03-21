@@ -32,6 +32,8 @@ So, *ChatHub* is an open-source feature-rich chat platform (initially for Androi
 - [ ] Push Notifications
 - [ ] Chat Background Support
 - [ ] Typing Indicator
+- [ ] User Mentions
+- [ ] Data Dividing Sections
 
 # Donations
 

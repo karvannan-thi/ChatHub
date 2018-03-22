@@ -8,27 +8,40 @@ In this era of the social media craze and internet age, where smartphones have b
 
 So, *ChatHub* is an open-source feature-rich chat platform (initially for Android) using Firebase's Cloud Firestore database as backend. Android Developers can easily use this platform in their apps and integrate highly advanced feature-rich chat system within a short time. 
 
+## Why Cloud Firestore?
+Cloud Firestore is an extended feature of Google Firebase and a real-time document-collection based database service that is an excellent choice if you don’t want to host your own server. With Firestore, you can have our demo chat app setup and running in under 30 minutes. Firestore has a powerful dashboard that gives you access to your data and a REST API if you need to access data from your server. Some of the advantages of Cloud Firestore include:
+ * Self-Hosted
+ * Scalable
+ * Flexible Authentication
+ * Realtime & Fast
+ * Pay as you go including Free Tier
+ * Cross platform SDKs
+
 ## Feature List
 
-- [ ] Basic Chat Architecture
-- [ ] Chat RecyclerView
-- [ ] Chat Message View
-- [ ] Image Message
-- [ ] GIF Message
-- [ ] Multiple Images Message
-- [ ] Location Message
-- [ ] Audio Message
-- [ ] Video Message
-- [ ] Contact Message
-- [ ] Link/URL Preview Message
-- [ ] Document (PDF/DOC) Message
-- [ ] Reply Message
+- [ ] Ananymous Login
+- [ ] Email Login
+- [ ] Facebook Login
+- [ ] Twitter Login
+- [ ] Google+ Login
+- [ ] Email Login
+- [ ] Text Messages
+- [ ] Image Messages
+- [ ] GIF Messages
+- [ ] Multiple Image Messages
+- [ ] Location Messages
+- [ ] Audio Messages
+- [ ] Video Messages
+- [ ] Contact Messages
+- [ ] Link/URL Preview Messages
+- [ ] Document (PDF/DOC) Messages
+- [ ] Reply Messages
 - [ ] Emojis Support
 - [ ] Message Reactions
 - [ ] Online/Last Active Status
-- [ ] Message Receipt Ticks
-- [ ] Group Chat
-- [ ] Private / Public Chats
+- [ ] Message Read/Receipt Ticks
+- [ ] Group Chats
+- [ ] Private & Public Chats
 - [ ] Push Notifications
 - [ ] Chat Background Support
 - [ ] Typing Indicator

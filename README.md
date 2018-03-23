@@ -71,18 +71,23 @@ Wajahat Karim
 
 # Get involved!
 
-We're very excited about the project and we're looking for other people to get involved. Over time we would like to make the best messaging framework for mobile. Helping us could involve any of the following:
+We're very excited about the project and we're looking for other people to get involved. Over time we would like to make the best messaging framework for mobile. Whether you have 
 
-* Providing feedback and feature requests
-* Reporting bugs
-* Fixing bugs
-* Contribute in development
+* Ideas
+* Translations
+* Design changes
+* Code cleaning
+* Bug fixing
+* Real heavy code changes
+* Documentation writing
 
-If you're interested please review the [Contributing Document](https://github.com/wajahatkarim3/ChatHub/blob/master/Contributions.md) for details of our development flow then email me at chathub397@gmail.com
+Help is always welcome. The more is done the better it gets!
+
+If you're interested please review the [Contributing Document](https://github.com/wajahatkarim3/ChatHub/blob/master/Contributions.md) for details of our development flow then email us at chathub397@gmail.com
 
 # License
 
-    Copyright 2017 Wajahat Karim
+    Copyright 2018 Wajahat Karim
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

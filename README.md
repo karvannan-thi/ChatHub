@@ -44,6 +44,7 @@ Cloud Firestore is an extended feature of Google Firebase and a real-time docume
 - [ ] Date Dividing Sections
 - [ ] Chat / Group Media, Documents, and Links
 - [ ] Restore/Export from and to CSV File
+- [ ] Chat Heads
 
 # Donations
 

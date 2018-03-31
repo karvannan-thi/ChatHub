@@ -31,6 +31,7 @@ Cloud Firestore is an extended feature of Google Firebase and a real-time docume
 - [ ] Link/URL Preview Messages
 - [ ] Document (PDF/DOC) Messages
 - [ ] Reply Messages
+- [ ] Markdown Messages Support for Bold, Italic, and Underline
 - [ ] Emojis Support
 - [ ] Message Reactions
 - [ ] Online/Last Active Status

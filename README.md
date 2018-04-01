@@ -49,6 +49,12 @@ Cloud Firestore is an extended feature of Google Firebase and a real-time docume
 - [ ] Image Filters
 - [ ] Image Annotations
 
+# Help spread the word
+
+ChatHub is free and open source. If you like the project help us spread the word by:
+* Giving us a Github star ⭐
+* Upvoting our page on Product Hunt (Note: Product Hunt page coming soon)
+
 # Donations
 
 This project needs you! If you would like to support this project's further development, the creator of this project or the continuous maintenance of this project, feel free to donate. Your donation is highly appreciated (and I love food, coffee and beer). Thank you!

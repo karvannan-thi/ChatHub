@@ -20,6 +20,7 @@ Cloud Firestore is an extended feature of Google Firebase and a real-time docume
 ## Feature List
 
 - [ ] Authentication (Anonymous, Email, Facebook, Twitter, Google+)
+- [ ] Phone Number Authentication
 - [ ] Text Messages
 - [ ] Image Messages
 - [ ] GIF Messages
@@ -48,6 +49,7 @@ Cloud Firestore is an extended feature of Google Firebase and a real-time docume
 - [ ] Chat Heads
 - [ ] Image Filters
 - [ ] Image Annotations
+- [ ] Block/Unblock Users
 
 # Help spread the word
 

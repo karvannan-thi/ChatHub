@@ -3,6 +3,8 @@
 # ChatHub
 A highly advance featured chat app in android using Firestore
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 ## Why this project and a chat platform?
 In this era of the social media craze and internet age, where smartphones have become a core part in peoples' lives. And with millions monthly active users on advanced chat apps such as Facebook Messenger, WhatsApp, WeChat, Telegram etc, we (consumers) have started taking these awesome features as for granted. This have become a trouble and headache for indie developers (especially those who provide development services or freelancing) to create such feature-rich platforms in constrained time.
 

@@ -39,6 +39,7 @@ Cloud Firestore is an extended feature of Google Firebase and a real-time docume
 - [ ] Message Reactions
 - [ ] Online/Last Active Status
 - [ ] Message Read/Receipt Ticks
+- [ ] Unread Messages Count
 - [ ] Group Chats
 - [ ] Private & Public Chats
 - [ ] Push Notifications

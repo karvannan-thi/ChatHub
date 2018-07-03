@@ -53,6 +53,7 @@ Cloud Firestore is an extended feature of Google Firebase and a real-time docume
 - [ ] Image Filters
 - [ ] Image Annotations
 - [ ] Block/Unblock Users
+- [ ] Go to Unread Messages like in Messenger 
 
 # Help spread the word
 

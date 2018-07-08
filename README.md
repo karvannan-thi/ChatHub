@@ -13,6 +13,7 @@ So, *ChatHub* is an open-source feature-rich chat platform (initially for Androi
 ## Why Cloud Firestore?
 Cloud Firestore is an extended feature of Google Firebase and a real-time document-collection based database service that is an excellent choice if you don’t want to host your own server. With Firestore, you can have our demo chat app setup and running in under 30 minutes. Firestore has a powerful dashboard that gives you access to your data and a REST API if you need to access data from your server. Some of the advantages of Cloud Firestore include:
  * Self-Hosted
+ * Scalable
  * Flexible Authentication
  * Realtime & Fast
  * Pay as you go including Free Tier
